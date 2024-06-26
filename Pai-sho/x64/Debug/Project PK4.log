@@ -1,0 +1,57 @@
+﻿  board.cpp
+  button.cpp
+  button_air.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_air.cpp(21,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  button_boulder.cpp
+  button_earth.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_earth.cpp(21,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_earth.cpp(28,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  button_fire.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_fire.cpp(20,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_fire.cpp(27,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  button_harmony.cpp
+  button_manager.cpp
+  button_text.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_text.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'button_text.cpp')
+  
+  button_thorn.cpp
+  button_water.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_water.cpp(20,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_water.cpp(28,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  Game.cpp
+  main.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\menu.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_text.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  menu.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\menu.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'menu.cpp')
+  
+C:\Users\melch\source\repos\Project PK4\Project PK4\button_text.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'menu.cpp')
+  
+C:\Users\melch\source\repos\Project PK4\Project PK4\menu.cpp(53,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\melch\source\repos\Project PK4\Project PK4\menu.cpp(63,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  place.cpp
+  place_index.cpp
+  tile.cpp
+  tile_air.cpp
+  tile_boulder.cpp
+  tile_earth.cpp
+  Generating Code...
+C:\Users\melch\source\repos\Project PK4\Project PK4\menu.cpp(217,1): warning C4715: 'menu::activate': not all control paths return a value
+C:\Users\melch\source\repos\Project PK4\Project PK4\Game.cpp(424,1): warning C4715: 'Game::play': not all control paths return a value
+C:\Users\melch\source\repos\Project PK4\Project PK4\board.cpp(1073,1): warning C4715: 'board::thorned': not all control paths return a value
+C:\Users\melch\source\repos\Project PK4\Project PK4\board.cpp(1137,1): warning C4715: 'board::move_tile': not all control paths return a value
+  Compiling...
+  tile_fire.cpp
+  tile_lotus.cpp
+  tile_thorn.cpp
+  tile_water.cpp
+C:\Users\melch\source\repos\Project PK4\Project PK4\tile_water.cpp(51,15): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  Project PK4.vcxproj -> C:\Users\melch\source\repos\Project PK4\x64\Debug\Project PK4.exe
